@@ -1,5 +1,8 @@
 _repo: Woman-Her-Position-and-Influence-in-Ancient-Greece-and-Rome-and-among-the-Early-Christians_67177
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67177-h/images/cover.jpg
 creator:
   author:
     agent_name: Donaldson, James, Sir
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54080
     wikipedia: https://en.wikipedia.org/wiki/James_Donaldson_(classical_scholar)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67177#Woman-Her-Position-and-Influence-in-Ancient-Greece-and-Rome-and-among-the-Early-Christians
 gutenberg_issued: '2022-01-16'
 identifiers:
   gutenberg: '67177'
